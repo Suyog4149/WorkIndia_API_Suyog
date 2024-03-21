@@ -1,1 +1,7 @@
-# WorkIndia_API_Suyog
+
+
+
+
+Firstly install the dependencies using 'npm install'
+
+To run the code use npm start
